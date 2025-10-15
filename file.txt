@@ -1,2 +1,5 @@
 Hello, Git!
 
+Hello from new_branch!
+
+
